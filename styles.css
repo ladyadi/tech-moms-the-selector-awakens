@@ -1,0 +1,28 @@
+body {
+    background-color: #111111;
+}
+
+h1 {
+    color: #E2E80F;
+    text-align: center;
+    font-size: 36px; 
+    /* h1 tag default font size is 32px */
+}
+
+p {
+    color: #eeeeee;
+    line-height: 25px;
+    font-size: 20px;
+    /* p tag default font size is 16px */
+}
+
+p .credits {
+    text-decoration: underline;
+    color: #49DAFF;
+    cursor: pointer;
+}
+
+#film-description {
+    font-size: 12px;
+    font-style: italic;
+}
